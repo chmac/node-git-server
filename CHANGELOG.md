@@ -1,3 +1,7 @@
+## [0.6.4] (04/14/2021)
+
+- Adds `enableCors` option
+
 # 0.6.3 (08/28/2020)
 
 - Adds `enableCors` option
