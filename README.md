@@ -1,5 +1,9 @@
 # node-git-server
 
+This package is a **FORK**. At some point the features here might get merged
+upstream and then this fork might disappear. It's published only for the
+author's personal convenience.
+
 > 🎡 A configurable git server written in Node.js
 
 >> there be 🐲 here! The API's and functionality are still be cemented, anything before a 1.0.0 release will be subject to change.
