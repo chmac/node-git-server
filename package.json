@@ -1,7 +1,7 @@
 {
   "name": "@chmac/node-git-server",
-  "version": "0.6.4",
-  "description": "🎡 A configurable git server written in Node.js",
+  "version": "0.6.5",
+  "description": "🎡 A (fork of the original) configurable git server written in Node.js",
   "author": "Gabriel J. Csapo <gabecsapo@gmail.com>",
   "contributors": [
     {

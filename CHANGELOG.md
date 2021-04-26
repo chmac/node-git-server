@@ -1,6 +1,11 @@
+## [0.6.5] (04/26/2021)
+
+- Enables `repoTemplatePath` and `initialBranch` on bare repos
+- Fixes changelog for 0.6.4
+
 ## [0.6.4] (04/14/2021)
 
-- Adds `enableCors` option
+- Adds `initialBranch` option
 
 # 0.6.3 (08/28/2020)
 
